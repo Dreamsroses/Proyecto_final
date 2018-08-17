@@ -2,9 +2,8 @@
   max-width: auto;
   max-height: 10vw;
 }
-.img__header{
+.img__header--jumbotron{
   background-image: url(../images/background_img.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  
 }
