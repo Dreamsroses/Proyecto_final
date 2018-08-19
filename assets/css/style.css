@@ -7,6 +7,20 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.titulo__header--jumbotron{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+.titular__nosotros{
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+.subtitulo__nosotros{
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+}
 label {
   width: 200px;
   display: block;
