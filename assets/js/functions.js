@@ -52,5 +52,11 @@ $(document).ready(function() {
     
     return valid;
   }
+    $("h2").mouseover(function(){
+        $("h2").css("background-color", "orange");
+    });
+    $("h2").mouseout(function(){
+        $("h2").css("background-color", "lightgray");
+    });
 
 });
