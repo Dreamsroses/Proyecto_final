@@ -10,6 +10,7 @@
 .titulo__header--jumbotron{
   font-family: "Roboto", sans-serif;
   font-weight: 700;
+  background-color: grey;
 }
 .titular__nosotros{
   font-family: "Roboto", sans-serif;
@@ -20,7 +21,23 @@
   font-style: italic;
   font-weight: 400;
   font-size: 20px;
+  line-height: 50px;
 }
+.titular__servicios{
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
+.redes__sociales{
+  text-align: center;
+}
+.fa-facebook-f{
+  color: #3b5998;
+}
+.fa-twitter{
+  color:  #1DA1F2;
+}
+
+
 label {
   width: 200px;
   display: block;
