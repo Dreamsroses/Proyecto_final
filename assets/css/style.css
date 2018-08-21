@@ -27,7 +27,10 @@
   font-family: "Roboto", sans-serif;
   font-weight: 900;
 }
-.redes__sociales{
+.titular__contactanos{
+ text-align: center;
+}
+.titular__siguenos{
   text-align: center;
 }
 .fa-facebook-f{
@@ -35,6 +38,9 @@
 }
 .fa-twitter{
   color:  #1DA1F2;
+}
+.fa-instagram{
+  color:  #000000;
 }
 
 
