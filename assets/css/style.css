@@ -47,6 +47,18 @@
   font-weight: 900;
 }
 
+/* Sección Contacto, dimensiones */
+
+label {
+  width: 200px;
+  display: block;
+}
+input, textarea {
+  height: 100px;
+  width: 500px;
+   margin: 5px 0;
+  border: 2px solid #CCC;
+}
 
 /* Efecto en imagenes  */
 
@@ -135,16 +147,4 @@
     .modal-content {
         width: 100%;
 }
-
-/* Sección Contacto, dimensiones */
-
-label {
-  width: 200px;
-  display: block;
-}
-input, textarea {
-  height: 100px;
-  width: 500px;
-  margin: 5px 0;
-  border: 2px solid #CCC;
 }
