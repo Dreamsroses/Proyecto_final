@@ -1,6 +1,5 @@
-<?php get_header(); ?>
-
-  <!-- Sobre Nosotros -->
+    
+      	  <!-- Sobre Nosotros -->
 <div class="container py-5">
   <div class="row">
   <div class="col-md-12">
@@ -56,4 +55,4 @@
 </div>
 <!-- /Nuestros Servicios -->
 
-<?php get_footer(); ?>
+
