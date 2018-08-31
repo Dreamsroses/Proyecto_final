@@ -2,4 +2,4 @@ Proyecto Final Rosa Morales R.
 
 Inicio: 17 de Agosto 2018 
 
-Se crea theme en formato php por nombre portafolio-theme
+Se crea theme en formato php por nombre portafolio-theme 30 de Agosto 2018
